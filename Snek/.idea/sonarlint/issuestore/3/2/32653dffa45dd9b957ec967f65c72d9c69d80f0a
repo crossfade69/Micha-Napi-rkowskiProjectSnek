@@ -1,0 +1,25 @@
+
+A
+java:S1659"Declare "y" on a separate line.(±šß¯ùÿÿÿÿ8–´ĞŞ0
+^
+java:S1659	"ADeclare "rTop" and all following declarations on a separate line.(Êê·ù8‚–´ĞŞ0
+q
+java:S1450	"TRemove the "rBody" field and declare it as a local variable in the relevant methods.(Êê·ù8‚–´ĞŞ0
+s
+java:S1450	"VRemove the "rBottom" field and declare it as a local variable in the relevant methods.(Êê·ù8‚–´ĞŞ0
+q
+java:S1450	"TRemove the "rLeft" field and declare it as a local variable in the relevant methods.(Êê·ù8ƒ–´ĞŞ0
+r
+java:S1450	"URemove the "rRight" field and declare it as a local variable in the relevant methods.(Êê·ù8ƒ–´ĞŞ0
+p
+java:S1450	"SRemove the "rTop" field and declare it as a local variable in the relevant methods.(Êê·ù8ƒ–´ĞŞ0
+F
+java:S1068	")Remove this unused "rBody" private field.(Êê·ù8”–´ĞŞ0
+E
+java:S1068	"(Remove this unused "rTop" private field.(Êê·ù8•–´ĞŞ0
+H
+java:S1068	"+Remove this unused "rBottom" private field.(Êê·ù8•–´ĞŞ0
+G
+java:S1068	"*Remove this unused "rRight" private field.(Êê·ù8•–´ĞŞ0
+F
+java:S1068	")Remove this unused "rLeft" private field.(Êê·ù8––´ĞŞ0

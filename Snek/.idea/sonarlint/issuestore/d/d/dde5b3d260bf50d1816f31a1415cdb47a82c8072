@@ -1,0 +1,74 @@
+
+>
+java:S1604E"(Make this anonymous inner class a lambda(¸’›ö
+C
+java:S1604V"(Make this anonymous inner class a lambda(¼¹Ú‘ùÿÿÿÿ
+f
+java:S1301w"KReplace this "switch" statement by "if" statements to increase readability.(á×Ëşÿÿÿÿ
+p
+java:S1104"ZMake sizeElementMap a static final constant or non-public and provide accessors if needed.(ş€¯Ê
+p
+java:S1104""UMake isPlaying a static final constant or non-public and provide accessors if needed.(ÉŸóÛûÿÿÿÿ
+g
+java:S1104#"QMake score a static final constant or non-public and provide accessors if needed.(‰÷÷
+k
+java:S1104#"UMake bestScore a static final constant or non-public and provide accessors if needed.(‰÷÷
+J
+java:S1444"4Make this "public static sizeElementMap" field final(ş€¯Ê
+J
+java:S1444""/Make this "public static isPlaying" field final(ÉŸóÛûÿÿÿÿ
+A
+java:S1444#"+Make this "public static score" field final(‰÷÷
+E
+java:S1444#"/Make this "public static bestScore" field final(‰÷÷
+`
+java:S1659"EDeclare "bmGrass2" and all following declarations on a separate line.(¯Åºàüÿÿÿÿ
+5
+java:S1659"Declare "h" on a separate line.(¥¡ç
+;
+java:S1659!" Declare "my" on a separate line.(ĞşÂöüÿÿÿÿ
+=
+java:S1659#"'Declare "bestScore" on a separate line.(‰÷÷
+;
+java:S1659%"&Declare "soundDie" on a separate line.(Ÿ“¾=
+A
+java:S3010/"&Remove this assignment of "bestScore".(öÂòõÿÿÿÿÿ
+E
+java:S1874D"/Remove this use of "Handler"; it is deprecated.(õÊëì
+L
+java:S1874T"1Remove this use of "SoundPool"; it is deprecated.(‘ì’üÿÿÿÿ
+K
+java:S1117a"5Rename "r" which hides the field declared at line 31.(¡Å”¦
+4
+java:S2119a"Save and re-use this "Random".(¡Å”¦
+<	java:S131w""Add a default case to this switch.(á×Ëşÿÿÿÿ
+=
+java:S1125y"'Remove the unnecessary boolean literal.(ÍÃà
+R
+java:S2696‚"6Make the enclosing method "static" or remove this set.(–Ì€øùÿÿÿÿ
+R
+java:S2696ˆ"6Make the enclosing method "static" or remove this set.(–Ì€øùÿÿÿÿ
+R
+java:S2696"6Make the enclosing method "static" or remove this set.(–Ì€øùÿÿÿÿ
+R
+java:S2696”"6Make the enclosing method "static" or remove this set.(–Ì€øùÿÿÿÿ
+S
+java:S1854¼"<Remove this useless assignment to local variable "streamId".(Õ£µ
+V
+java:S1161¤":Add the "@Override" annotation above this method signature(÷”íıÿÿÿÿ
+D
+java:S1481¼"-Remove this unused "streamId" local variable.(Õ£µ
+R
+java:S2696À"6Make the enclosing method "static" or remove this set.(ä·úÎûÿÿÿÿ
+R
+java:S2696Ã"6Make the enclosing method "static" or remove this set.(ã¸Ì¢şÿÿÿÿ
+S
+java:S1854Ô"<Remove this useless assignment to local variable "streamId".(³ÿ®“
+R
+java:S2696Ï"6Make the enclosing method "static" or remove this set.(Ñ°–ğúÿÿÿÿ
+D
+java:S1481Ô"-Remove this unused "streamId" local variable.(³ÿ®“
+R
+java:S2696ä"6Make the enclosing method "static" or remove this set.(Ê­Áÿÿÿÿÿ
+E
+java:S1068&"*Remove this unused "volume" private field.(é©û‚úÿÿÿÿ

@@ -1,0 +1,15 @@
+
+z
+java:S1104"XMake SCREEN_WIDTH a static final constant or non-public and provide accessors if needed.(ı¹ˆ¢ÿÿÿÿÿ8öÚĞŞ0
+v
+java:S1104"YMake SCREEN_HEIGHT a static final constant or non-public and provide accessors if needed.(äœ×Î8ùÚĞŞ0
+T
+java:S1444"2Make this "public static SCREEN_WIDTH" field final(ı¹ˆ¢ÿÿÿÿÿ8ùÚĞŞ0
+P
+java:S1444"3Make this "public static SCREEN_HEIGHT" field final(äœ×Î8ùÚĞŞ0
+y
+java:S3008"WRename this field "SCREEN_WIDTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı¹ˆ¢ÿÿÿÿÿ8ıÚĞŞ0
+u
+java:S3008"XRename this field "SCREEN_HEIGHT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äœ×Î8ıÚĞŞ0
+\
+java:S1118":Add a private constructor to hide the implicit public one.(Ø¡²›ÿÿÿÿÿ8ÛĞŞ0
